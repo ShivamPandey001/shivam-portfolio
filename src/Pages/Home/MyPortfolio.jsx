@@ -12,7 +12,7 @@ function getGitHubLink(title) {
 function getLiveDemoLink(title) {
   const liveDemoLinks = {
     NetflixGPT: "https://sp-netflixgpt.netlify.app/", // Replace with the actual live demo link
-    BiteBoutique: "https://sp-netflixgpt.netlify.app/", // Replace with a dummy URL
+    BiteBoutique: "https://biteboutique.netlify.app/", // Replace with a dummy URL
     YoutubeThreads: "https://sp-netflixgpt.netlify.app/", // Replace with a dummy URL
   };
   return liveDemoLinks[title] || "#"; // Return '#' if title is not found

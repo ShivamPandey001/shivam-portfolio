@@ -11,7 +11,8 @@ export default function HeroSection() {
           </h1>
           <p className="hero--section-description">
           Welcome to my portfolio showcasing a diverse range of projects that reflect my expertise as a Full Stack Developer. <br/>
-          Explore how I've leveraged my mastery of JavaScript, React.js, Node.js, express.js, CSS, and Next.js to create stunning websites for small and medium-sized businesses.
+          I've 2+ yrs of experience done alot of projects in JavaScript, React.js, CSS and Java to create stunning websites for small and medium-sized businesses. 
+          <br/>I'm Good at Problem solving skills.
           </p>
         </div>
       </div>

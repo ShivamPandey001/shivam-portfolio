@@ -97,25 +97,24 @@ function Navbar() {
               Projects
             </Link>
           </li>
-                   
-          <li>
-            <Link
-              onClick={closeMenu}
+          <Link
+              onClick={downloadResume}
               activeClass="navbar--active-content"
               spy={true}
               smooth={true}
               offset={-70}
               duration={500}
-              to="Contact"
+              to="heroSection"
               className="navbar--content"
             >
-              Contact Me
-            </Link>
+              Download Resume
+            </Link>      
+          <li>
           </li>  
         </ul>
       </div> 
       <Link
-        onClick={downloadResume}
+        onClick={closeMenu}
         spy={true}
         smooth={true}
         offset={-70}
@@ -123,7 +122,7 @@ function Navbar() {
         to="heroSection"
         className="btn btn-outline-primary"
       >
-        Download CV
+        Contact Me
       </Link>
     </nav>
   );
