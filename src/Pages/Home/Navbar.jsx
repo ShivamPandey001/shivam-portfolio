@@ -119,7 +119,7 @@ function Navbar() {
         smooth={true}
         offset={-70}
         duration={500}
-        to="heroSection"
+        to="Contact"
         className="btn btn-outline-primary"
       >
         Contact Me
