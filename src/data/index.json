@@ -4,19 +4,19 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "With a deep understanding of JavaScript, React.js, and Tailwind CSS, I've brought life to web applications by seamlessly combining functionality with aesthetics."
+      "description": "Proficient in JavaScript, React.js, and Tailwind CSS, I excel at designing web applications that strike the perfect balance between functionality and visual appeal. I transform concepts into engaging digital experiences, making me the ideal choice for your web development needs. Let's collaborate to bring your ideas to life."
     },
     {
       "id": "2",
       "src": "./img/feather-pen-1.png",
       "title": "Back-End",
-      "description": "With proficiency in Java, I've built the robust server-side components that power the dynamic features of the projects I've undertaken. From designing efficient RESTful APIs to managing databases and ensuring data security, I've meticulously crafted the infrastructure that ensures the smooth operation of your applications."
+      "description": "I've built robust server-side components for projects, including designing efficient RESTful APIs, managing databases, ensuring data security, optimizing for performance, and thorough testing. I also prioritize documentation, monitoring, and automation for smooth operations."
     },
     {
       "id": "3",
       "src": "./img/tag-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Tools and Technology",
+      "description": "I possess expertise in JIRA for project tracking and customization, Azure DevOps for CI/CD pipeline management, MongoDB for NoSQL database operations, and Jenkins for automating build and deployment processes."
     }
   ],
   "portfolio": [
